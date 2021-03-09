@@ -10,8 +10,7 @@
 import pickle
 # Data -------------------------------------------------------------------- #
 
-#strFileName = 'products.txt'
-file_name = "C:\_PythonClass\Assignment08\products.dat"
+file_name = "products.dat" #Changed from txt to dat for pickling
 list_of_product_objects = []
 
 class Product(object):
