@@ -80,6 +80,7 @@ class FileProcessor:
 
 # Presentation (Input/Output)  -------------------------------------------- #
 class IO:
+    """Performs Input and Output Tasks"""
     @staticmethod
     def print_menu_tasks():
         """display menu of choices"""
@@ -107,7 +108,12 @@ class IO:
         list_of_product_objects.append(new_row)
 
     @staticmethod
-    def print_list_products(list_of_product_objects):  # WORKS
+    def print_list_products(list_of_product_objects):
+        """Prints list of products,
+            Try:
+                prints each row in list_of_product_objects
+            except:
+                   prints error code if products not located """
         try:
             for row in list_of_product_objects:
                 print(row)
