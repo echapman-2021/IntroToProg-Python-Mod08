@@ -1,8 +1,8 @@
-## Elisabeth Chapman
-## 3/8/2021
-## Foundations of Programming Python
-## GitHub: https://github.com/echapman-2021/IntroToProg-Python-Mod08
-## Assignment 08
+### Elisabeth Chapman
+### March, 9, 2021
+### Foundations of Programming Python
+### GitHub: https://github.com/echapman-2021/IntroToProg-Python-Mod08
+### Assignment 08
 # Classes and Object-Oriented Programming
 In this project the concept of object-oriented programming was explored and a new vocabulary to describe the script was utilized. This concept again used classes to construct separate segments of the code, but the organization of the classes differed from those of our previous project. These object classes served to further encapsulate the code for later usage, and the combination of functions and data made the class objects uniquely equipped to handle future more complex programs. Elsewhere within the script, a few familiar concepts continued to be deployed, the use of docstrings continued to be used to describe the functions intended purpose, as well static methods and data pickling. 
 # Constructor and Field
